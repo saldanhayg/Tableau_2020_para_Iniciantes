@@ -21,7 +21,8 @@
 
 O propósito desta curso é providenciar uma primeira impressão da ferramenta de visualização de dados Tableau. 
 
-Tópicos do curso <br>
+### Tópicos do curso
+<br>
  💢  Instalar o Tableau Public<br>
  💢  Criar Gráficos de Barra, Gráficos de Dispersão, Tabelas, Heatmaps<br>
  💢  Criar Mapas<br>
@@ -34,8 +35,10 @@ Tópicos do curso <br>
  💢  Criar Painéis Interativos<br>
  💢  Conectar o Tableau em Arquivos de Dados<br>
 <br>
-<br>
-Dashboards : 📉 https://public.tableau.com/profile/heliosaldanha#!/vizhome/Curso-Tableau2020paraIniciantes/Tableau2020
+
+### Dashboards
+
+📉 https://public.tableau.com/profile/heliosaldanha#!/vizhome/Curso-Tableau2020paraIniciantes/Tableau2020
 <br>
 <br>
 Agradecimento ao instrutor <a href="https://www.linkedin.com/in/roberto-walter-9a4a814a/" target="_blank">Roberto Walter</a>
