@@ -1,4 +1,4 @@
-# 💻  Tableau 2020 para Iniciantes
+# 📶 Tableau 2020 para Iniciantes
 
 <h1>
    <img src="https://i.ibb.co/hRQpczR/1.jpg" border="0">
@@ -21,7 +21,7 @@
 
 O propósito desta curso é providenciar uma primeira impressão da ferramenta de visualização de dados Tableau. 
 
-Tópicos do curso 
+Tópicos do curso <br>
  💢  Instalar o Tableau Public<br>
  💢  Criar Gráficos de Barra, Gráficos de Dispersão, Tabelas, Heatmaps<br>
  💢  Criar Mapas<br>
@@ -39,11 +39,10 @@ Dashboards : 📉 https://public.tableau.com/profile/heliosaldanha#!/vizhome/Cur
 <br>
 <br>
 Agradecimento ao instrutor <a href="https://www.linkedin.com/in/roberto-walter-9a4a814a/" target="_blank">Roberto Walter</a>
-<br>
+<br><br>
 ## Tecnologia utilizadas 🚀:
 
 * <a href="https://public.tableau.com/">Tableau Public</a> 
-
 <br>
 <br>
 Me siga nas redes sociais<br>
